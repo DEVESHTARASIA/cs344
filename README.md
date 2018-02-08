@@ -1,4 +1,4 @@
-cs344
+cs344. Doing it in an accelerated scale
 =====
 
 Introduction to Parallel Programming class code
